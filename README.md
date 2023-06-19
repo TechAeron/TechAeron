@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif)
+![MasterHead](https://simplecoding.dev/assets/devops.gif)
 <h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

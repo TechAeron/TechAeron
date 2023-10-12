@@ -11,10 +11,9 @@
 - 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **a DevOps related project**
-
 - 💬 Ask me about **AWS, Ansible, Docker, Python, Cloud Computing**
 
-- 📫 How to reach me **Use my username TechAeron on social platforms to reach out**
+<!-- - 📫 How to reach me **Use my username TechAeron on social platforms to reach out**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

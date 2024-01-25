@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **AWS, Ansible, Docker, Python, Cloud Computing**
 
-<!--- 📫 How to reach me **use my username Vaibhav0643 on social platforms to reach out** -->
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/vaibhav0604/)**
 
 <!--
 <h3 align="left">Connect with me:</h3>
